@@ -1,2 +1,2 @@
-# ISProject
-This repository is for project of IS
+# PRO-GYM
+This repository contains the project PRO-GYM
